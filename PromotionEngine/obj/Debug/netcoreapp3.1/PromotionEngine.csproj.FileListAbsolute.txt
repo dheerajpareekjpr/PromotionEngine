@@ -1,0 +1,13 @@
+D:\Assignment1\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.exe
+D:\Assignment1\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.deps.json
+D:\Assignment1\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.json
+D:\Assignment1\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.dev.json
+D:\Assignment1\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.dll
+D:\Assignment1\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.pdb
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csproj.CoreCompileInputs.cache
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfoInputs.cache
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfo.cs
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.dll
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.pdb
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.genruntimeconfig.cache
+D:\Assignment1\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csprojAssemblyReference.cache
